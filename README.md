@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">HI, I'm Evgeniy! 👋 <h5 align="center">Data Analyst 👨‍💻</h5> </div> 
+## <div align="center">Hi, I'm Evgeniy! 👋 <h5 align="center">Data Analyst 👨‍💻</h5> </div> 
 
 ## 💾 Обо мне:
 
