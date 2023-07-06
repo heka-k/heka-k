@@ -48,23 +48,10 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
-
-
 <br/>  
-
-
-
 <br/>  
-
-  
-
 <br/>  
-
-  
 
 <br/>  
 
