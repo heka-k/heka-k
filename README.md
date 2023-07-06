@@ -22,9 +22,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="60" height="60">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60">&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5486/5486426.png" width="60" height="60">&nbsp;
-<img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="60"/>&nbsp;
-<img src="https://img.shields.io/badge/Superset-white?logo=Superset&s&logoColor=yellow&style=for-the-badge" title="Superset" alt="Superset" height="60"/>&nbsp;
-<img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="60"/>&nbsp;
+<img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="50"/>&nbsp;
+<img src="https://img.shields.io/badge/Superset-white?logo=Superset&s&logoColor=yellow&style=for-the-badge" title="Superset" alt="Superset" height="50"/>&nbsp;
+<img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="50"/>&nbsp;
   
 </div>
 <br/>  
